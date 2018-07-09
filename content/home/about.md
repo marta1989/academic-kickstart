@@ -10,31 +10,35 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Christianity in Late Antiquity and Early Middle Ages",
+    "Post-Roman Successor Kingdoms in the West",
+    "Orthodoxy and Heresy in the Early Church"
+    "Hagiography and the Cult of Saints"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in History (expected)"
+  institution = "University of Warsaw"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MA in History"
+  institution = "University of Warsaw"
+  year = 2015
+  
+[[education.courses]]
+  course = "MA in Classics"
+  institution = "University of Warsaw"
+  year = 2013
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA in Classics"
+  institution = "University of Warsaw"
+  year = 2011
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a doctoral student in History at the University of Warsaw and a research assistant in the project based at the Institute of History "Presbyters in the Late Antique West". I also collaborate with the Oxford-based project "Cult of Saints in Late Antiquity". I write a dissertation on conversions between Nicene and Homoian Christianity in the post-Roman successor kingdoms in the West under the supervision of professor Robert Wiśniewski.
