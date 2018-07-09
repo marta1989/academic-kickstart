@@ -6,18 +6,18 @@ draft = false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 time_start = 2018-07-05T14:15:00
-# time_end = ""
+time_end = 2018-07-05T14:35:00
 
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = ""
+event = "International Medieval Congress 2018"
 event_url = ""
 
 # Location of event.
-location = ""
+location = "Leeds, UK"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -30,7 +30,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["presbyters", "Hispania"]
 
 # Links (optional).
 url_pdf = ""
