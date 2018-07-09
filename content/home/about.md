@@ -41,4 +41,4 @@ weight = 5
 
 # About me
 
-I am a doctoral student in History at the University of Warsaw and a research assistant in the project based at the Institute of History "Presbyters in the Late Antique West". I also collaborate with the Oxford-based project "Cult of Saints in Late Antiquity". I write a dissertation on conversions between Nicene and Homoian Christianity in the post-Roman successor kingdoms in the West under the supervision of professor Robert Wiśniewski.
+I am a doctoral student in History at the University of Warsaw working under the supervision of Prof. Robert Wiśniewski i Dr. Stanisław Adamiak. In my dissertation titled "Conversions between the Nicene and Homoian Christianity in the Germanic Successor Kingdoms between the Fifth and the Seventh Century", I explore the problems of interconfessional relations, religious conversion and its various forms, tolerance and persecution in the late antique and early medieval Western societies. I also work as a doctoral researcher in the project "Presbyters in the Late Antique West" run by Prof. Wiśniewski at the Institute of History and collaborate with Oxford-based project "Cult of Saints in Late Antiquity". 
