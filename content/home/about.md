@@ -12,8 +12,8 @@ weight = 5
   interests = [
     "Christianity in Late Antiquity and Early Middle Ages",
     "Post-Roman Successor Kingdoms in the West",
-    "Orthodoxy and Heresy in the Early Church"
-    "Hagiography and the Cult of Saints"
+    "Orthodoxy and Heresy in the Early Church",
+    "Hagiography and the Cult of Saints",
   ]
 
 # List your qualifications (such as academic degrees).
