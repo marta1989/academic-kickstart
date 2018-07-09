@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "University of Warsaw", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "profile.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "m.szada@uw.edu.pl"
   address = "Institute of History, University of Warsaw, Krakowskie Przedmieście 26/28, 00-927 Warsaw, Poland"
   office_hours = "By appointment"
