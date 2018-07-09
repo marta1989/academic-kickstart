@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["presbyters", "database"]
+tags = ["cult of saints", "relics", "database", "Oxford"]
 
 # Project summary to display on homepage.
 summary = "A searchable corpus gathering the evidence on the early cult of saints up to AD 700 presenting sources in their original language (Greek, Latin, Coptic, Syriac, Georgian, Armenian) and in English translation."
