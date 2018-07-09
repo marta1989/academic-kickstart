@@ -1,5 +1,5 @@
 +++
-title = "Do You Need a Priest to Be a Christian?"
+title = "Do You Need a Priest to Be a Christian? Pastoral Care and Lay Piety in Visigothic and Suevic Iberia"
 date = 2018-07-05T00:00:00
 draft = false
 
@@ -14,7 +14,7 @@ abstract_short = ""
 
 # Name of event and optional event URL.
 event = "International Medieval Congress 2018"
-event_url = ""
+event_url = "http://www.leeds.ac.uk/arts/info/125137/international_medieval_congress"
 
 # Location of event.
 location = "Leeds, UK"
@@ -30,7 +30,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["presbyters", "Hispania"]
+tags = ["presbyters", "Hispania", "religious praxis", "lay piety"]
 
 # Links (optional).
 url_pdf = ""
@@ -51,3 +51,5 @@ image = ""
 caption = ""
 
 +++
+
+The paper was presented at the sessions "Religious Praxis and Pastoral Care in Early Medieval Iberia" which I coorganized with Jamie Wood from University of Lincoln and Kati Ihnat from Radboud Universiteit in Nijmegen. In this series of sessions, we explored religious praxis in early medieval Iberia, c. 500-1100, from an interdisciplinary, socio-cultural perspective. Early medieval Iberia saw lively discussion about the proper performance and ultimate aims of religious practice and scholars have long struggled to unravel the relationship between the many rules that were laid down during the period and their practical applications. The rituals of the medieval church were first and foremost expressions of Christian religious commitment and identity - pressing issues in Iberia following the Visigothic conversion to Nicene Christianity. But there is growing interest in additional dimensions of medieval ritual and legal practice that could usefully be explored in the Iberian context: how they built community (particularly through ritualising memory, learning, and law) and set boundaries, engaged with the senses and emotions, and shaped Christian values and ideals.
