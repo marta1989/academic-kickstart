@@ -5,8 +5,8 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = "2:15PM"
-time_end = "3:45PM"
+time_start = "2:15 pm"
+time_end = "3:45 pm"
 
 # Abstract and optional shortened version.
 abstract = ""
