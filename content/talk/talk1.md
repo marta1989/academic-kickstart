@@ -1,12 +1,12 @@
 +++
 title = "Do You Need a Priest to Be a Christian?"
-date = ""  # Schedule page publish date.
+date = 2018-07-05  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 time_start = ""
-time_end = ""
+# time_end = ""
 
 # Abstract and optional shortened version.
 abstract = ""
