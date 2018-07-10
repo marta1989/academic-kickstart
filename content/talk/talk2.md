@@ -30,7 +30,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["presbyters", "Hispania", "religious praxis", "lay piety"]
+tags = ["presbyters", "Hispania", "bishops", "Church hierarchy", "Homoians", "Visigoths"]
 
 # Links (optional).
 url_pdf = ""
