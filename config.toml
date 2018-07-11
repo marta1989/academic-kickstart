@@ -79,7 +79,7 @@ enableGitInfo = false
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = ""
+  logo = "logo.png"
 
   # Enable/disable map in Contact widget.
   # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
@@ -244,7 +244,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Home"
-  url = "#posts"
+  url = "#about"
   weight = 1
 
 [[menu.main]]
@@ -268,14 +268,9 @@ enableGitInfo = false
   weight = 5
 
 [[menu.main]]
-  name = "About me"
-  url = "#about"
-  weight = 6
-
-[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 6
 
 # Taxonomies.
 [taxonomies]
