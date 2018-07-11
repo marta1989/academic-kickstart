@@ -244,7 +244,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Home"
-  url = "#about"
+  url = "#posts"
   weight = 1
 
 [[menu.main]]
@@ -268,9 +268,14 @@ enableGitInfo = false
   weight = 5
 
 [[menu.main]]
+  name = "About me"
+  url = "#about"
+  weight = 6
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Taxonomies.
 [taxonomies]
